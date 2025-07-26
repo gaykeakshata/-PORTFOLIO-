@@ -1,1 +1,15 @@
 # -PORTFOLIO-
+
+COMPANY:CODTECH IT SOLUTIONS
+
+NAME:AKSHATA GAYKE
+
+INTERN ID:CT04DH1451
+
+DOMAIN:FRONTEND WEB DEVELOPMENT
+
+DURATION:4 WEEKS
+
+MENTOR:NEELA SANTOSH KUMAR
+
+OUTPUT:-<img width="1366" height="656" alt="image" src="https://github.com/user-attachments/assets/234d90fc-89af-4ca5-bb13-fdefd9bbad68" />
